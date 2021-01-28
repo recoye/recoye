@@ -1,4 +1,4 @@
-###  Recoye  👋
+###  Recoye
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=recoye&show_icons=true&icon_color=0366d6&text_color=2ea44f&bg_color=ffffff&hide_title=true" />
 
 ### 🤔 funny!
